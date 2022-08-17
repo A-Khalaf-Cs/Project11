@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/home_icon"
+        android:title="Home" />
+    <item
+        android:id="@+id/quranItem"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Quran" />
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_baseline_track_changes_24"
+        android:title="Habit" />
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About" />
+</menu>
